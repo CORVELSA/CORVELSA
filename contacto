@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>CORVELSA</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+
+<header id="encabezado">
+	<!--LOGO-->
+<section id="logo">
+	<a href="index.html"><img src="IMAGENES/LOGODEVERAS6.png" height="100" width="250px" alt=logo></a>
+
+	
+
+</section>
+<section id="carne">
+<img src="IMAGENES/carne4.png">
+</section>
+ </header>
+
+
+	<!--MENU HORIZONTAL-->
+	<nav id="menu-h">
+		<ul>
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="index.html">¿Quiénes somos?</a>
+				<ul class="submenu"> 
+   					
+   					<li><a href="vision.html">Visión</a></li>
+   					<li><a href="mision.html">Misión</a></li>
+				</ul>
+			</li>
+			<li><a href="prove.html">Proveedores</a></li>
+				
+
+
+
+
+			</li>
+			<li><a href="productos.html">Productos</a></li>
+			<li><a href="#">Clientes</a>
+				<ul class="submenu">
+			<li><a href="clientesn.html">Nacionales</a></li>
+			<li><a href="clientese.html">Extranjeros</a></li>
+		</ul>
+
+			
+			<li><a href="contacto.html">Contáctenos</a></li>
+
+			
+		</ul>
+	</nav>
+	<!--MENU HORIZONTAL-->
+	
+	<section id="banner">
+		<img src="IMAGENES/banner.jpg">
+	</section>
+
+
+	<section id="container">
+
+		<!--MENU-VERTICAL-->
+
+
+		
+		<nav id="menu-v">
+
+			
+
+
+		
+		<!--MENU-VERTICAL-->
+		<ul>
+			
+			<li><a href="index.html"><img src="IMAGENES/home.png">				Inicio</a></li>
+			<li><a href="prove.html"><img src="IMAGENES/SERVICE2.png">			Proveedores</a></li>
+			<li><a href="productos.html"><img src="IMAGENES/product2.png">			Productos</a></li>
+			<li><a href="https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1UjbVmmXYttJs1LTavY5WiKDVe1c&ll=14.530986000000018%2C-90.46346999999999&z=17"target="_blank">
+
+				<img src="IMAGENES/map2.png">				Ubícanos</a></li>
+			<Li><a href="contacto.html"> <img src="IMAGENES/CONTACTO.png">			Contáctenos</a> </Li>
+		</ul>
+		</nav>
+
+
+
+
+		<section id="contenidovision">
+			<h2>VISIÓN</h2>
+			<img src="https://negociosyempresa.com/wp-content/uploads/2020/10/camino-vision.jpg"class="imgvision">
+			<p>Ser el mejor distribuidor de productos farmacéuticos y de consumo a nivel nacional. Ser un grupo empresarial altamente exitoso en la distribución de productos farmacéuticos con unidades de negocio relacionado al sector salud y área logística.</p>
+			<p>Ser una droguería líder en el mercado, brindando servicios de máxima calidad, orientada a proveer soluciones integrales a nuestros clientes con eficiencia y responsabilidad.</p>
+			<p>
+				Estar en continuo crecimiento profesional para la satisfacción del cliente, siendo orientados a una atención personalizada, y en continua búsqueda de los productos que mejor se adecuen a las necesidades del cliente
+			</p>
+
+
+
+
+
+		</section>
+
+	</section>
+	<footer id="ft">
+		<center>
+		<img src="IMAGENES/umg7.png" class="mari">
+		</center>
+
+	
+		
+	</footer>
+
+
+</body>
+</html>
